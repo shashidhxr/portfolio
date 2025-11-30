@@ -37,7 +37,7 @@ export default function Home() {
         <p className="text-gray-200">
           My interests live at the intersection of backend engineering, distributed systems,
           operating systems, and security. I like understanding how things work all the way
-          down—from TCP and syscalls up to APIs and product behavior.
+          down from TCP and syscalls up to APIs and product behavior.
         </p>
         <p className="text-gray-200">
           I try to approach work like an engineer, not just a coder: write things down,
@@ -262,11 +262,12 @@ export default function Home() {
 
       {/* Notes / Writing */}
       <section id="notes" className="space-y-2">
+
         <h2 className="text-xl text-orange-500">Notes & Writing</h2>
         <p className="text-gray-200">
           I plan to use this site as a place to write about systems topics that
           interest me &mdash; from queues and storage engines to networking,
-          observability, and performance. Over time, this will become a collection
+          observability, and performance. The goal is to have a collection
           of working notes, design docs, and problem breakdowns.
         </p>
       </section>
@@ -279,12 +280,12 @@ export default function Home() {
           infra-related opportunities and collaborations.
         </p>
         <p className="text-gray-200">
-          The best way to reach me is by email:&nbsp;
+          Reach out to me by email:&nbsp;
           <a
             href="mailto:your-email@example.com"
             className="text-orange-400 hover:underline"
           >
-            your-email@example.com
+            shashidhxr@gmail.com
           </a>
         </p>
       </section>
